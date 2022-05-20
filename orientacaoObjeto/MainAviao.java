@@ -10,6 +10,7 @@ public class MainAviao {
 		System.out.println();
 		aviao2.status();
 
+		
 	}
 
 }
