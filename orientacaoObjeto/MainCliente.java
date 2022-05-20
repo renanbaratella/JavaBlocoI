@@ -12,6 +12,8 @@ public class MainCliente {
 		
 		System.out.println();
 		
+		
+		cliente2.ativaDesativa();
 		cliente2.status();
 		
 		
